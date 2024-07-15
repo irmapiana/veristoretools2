@@ -1,0 +1,2 @@
+-- Import Result MCH --
+Row 2 error (Merchant Name tidak boleh kosong)
